@@ -32,9 +32,13 @@
 ### Configuration
 
 1. Open Lightroom and navigate to the "File" menu.
-2. Choose "Plug-in Manager."
-3. Find "Power Collection" in the list of installed plugins.
-4. Click on "Set Up" and follow the on-screen instructions to configure the plugin.
+2. Choose "Plug-in Manager".
+3. Find "Power Collection" in the list of installed plugins or add it manually.
+
+### Usage
+1. Select the pictures you want to create a collection for *(optional)*.
+2. Go to the bottom of the "Library" menu and "Plug-in Extras" and press "Create Power Collection...".
+3. Give the collection a name and press "Ok".
 
 ## Download
 
